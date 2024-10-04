@@ -16,4 +16,4 @@ create table TodoItems (
     userId int foreign key references Users not null,
     createdOn datetime2(2) default SYSDATETIME()
 )
-go
+go 
