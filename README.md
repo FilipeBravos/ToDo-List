@@ -1,17 +1,15 @@
 # Todo
 
-Todo web app built with [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1),
-[ReactJS](https://reactjs.org/) and [SQL Server](https://www.microsoft.com/en-us/sql-server)
 
 
 <p align="center">
- <a href="#technologies">Tecnologias</a> •
- <a href="#getting-started">Primeiros passos</a> •
- <a href="#run-with-docker">Executar com o dockerr</a> •
- <a href="#run-without-docker">Executar sem o docker</a>
+ <a href="#Tecnologias">Tecnologias</a> •
+ <a href="#Primeiros-passos">Primeiros passos</a> •
+ <a href="#Executar-com-o-docker">Executar com o docker</a> •
+ <a href="#Executar-sem-o-docker">Executar sem o docker</a>
 </p>
 
-## Technologies
+## Tecnologias
 
 -   [Docker](https://www.docker.com/):  Plataforma para criar, executar e compartilhar aplicativos com containers.
 -   Backend
@@ -23,7 +21,7 @@ Todo web app built with [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/c
     -   [Typescript](https://www.typescriptlang.org/)
     -   [React Router DOM](https://reacttraining.com/react-router/web/guides/quick-start):  Roteamento declarativo para React
 
-# Getting started
+# Primeiros-passos
 
 ### Clone
 
@@ -39,7 +37,7 @@ Em seguida, mude para a pasta do repositorio
 cd todo
 ```
 
-### Executar com o docker
+### Executar-com-o-docker
 
 Requer
 
@@ -61,7 +59,7 @@ Para interromper a execucao do aplicativo
 docker-compose down
 ```
 
-### Executar sem o docker
+### Executar-sem-o-docker
 
 Requer
 
